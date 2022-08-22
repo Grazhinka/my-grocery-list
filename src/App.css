@@ -1,0 +1,46 @@
+body{
+  background-color: #62c2c8;
+  font-family: 'Montserrat', sans-serif;
+}
+.App {
+  margin: 20px auto;
+  width: 400px;
+  background-color: white;
+  min-height: 80vh;
+  text-align: center;
+}
+
+.crossed {
+  text-decoration: line-through 2px red;
+  background-color: #f0f0f0;
+}
+
+ul,li{
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+  text-align: left;
+}
+
+button{
+  padding: 10px;
+  border: none;
+  width: 70%;
+  color: white;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 10px;
+}
+.green{
+  background-color: #65aa06;
+}
+.red{
+  background-color: #d30100;
+}
+
+input{
+  padding: 5px;
+  width:80%;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
